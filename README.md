@@ -22,7 +22,4 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará a
 
 <h1> # amigoSecreto </h1>
 
- 
-<h4 align="center">
-:construction:Fucionalidades:  :construction:
-</h4>
+
